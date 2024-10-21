@@ -31,7 +31,7 @@ Esu naujokė duomenų analizės srityje, bet aistringai domiuosi duomenų galia 
 ---
 
 ## 📬 Kaip su manimi susisiekti:
-- **El. paštas**: svetlana@example.com
+- **El. paštas**: zavacke@gmail.com
 - **LinkedIn**: [Svetlana LinkedIn](https://www.linkedin.com/in/svetlana-example)
 ## Hi there 👋
 
