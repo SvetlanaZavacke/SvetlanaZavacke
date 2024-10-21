@@ -1,3 +1,6 @@
+https://github.com/antonkomarev/github-profile-views-counter
+![](https://komarev.com/ghpvc/?username=SvetlanaZavacke&base=50&abbreviated=true)
+
 # 👋 Sveiki! Aš esu Svetlana – Duomenų Analitikė
 
 Esu naujokė duomenų analizės srityje, bet aistringai domiuosi duomenų galia ir jų panaudojimu priimant verslo sprendimus. Šiuo metu gilinuosi į SQL ir Power BI, taip pat eksperimentuoju su Python įrankiais, tokiais kaip **pandas** ir **matplotlib**. Mano siekis – padėti komandoms priimti duomenimis pagrįstus sprendimus!
@@ -45,4 +48,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://komarev.com/ghpvc/?username=SvetlanaZavacke&base=50&abbreviated=true)
+
