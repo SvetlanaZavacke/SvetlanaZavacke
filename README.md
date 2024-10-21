@@ -19,8 +19,8 @@ Esu naujokė duomenų analizės srityje, bet aistringai domiuosi duomenų galia 
 
 - **Power BI vizualizacija: Finansinių rodiklių ataskaita**  
   Sukūriau interaktyvią **Power BI** ataskaitą, kuri leidžia stebėti finansinių rodiklių dinamiką ir atrasti naujas tendencijas.
-
-  - **Duomenų analizės projektas: Pardavimų tendencijų tyrimas**  
+  
+- **Duomenų analizės projektas: Pardavimų tendencijų tyrimas**  
   Naudojant **Python** ir **SQLite**, atlikau pardavimų duomenų analizę bei sukūriau pardavimų prognozavimo modelį.
 
 ---
