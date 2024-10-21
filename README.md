@@ -8,9 +8,9 @@ Esu naujokė duomenų analizės srityje, bet aistringai domiuosi duomenų galia 
 ---
 
 ## 🛠️ Technologijos ir įgūdžiai:
+- **Power BI**: interaktyvių ataskaitų kūrimas
 - **SQL**: MySQL, SQLite – duomenų bazės užklausų rašymas, analizė
 - **Python**: pandas, numpy, matplotlib – duomenų apdorojimas ir vizualizacija
-- **Power BI**: interaktyvių ataskaitų kūrimas
 - **Excel**: Pivot lentelės ir sudėtingos formulės 
 
 ---
