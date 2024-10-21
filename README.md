@@ -1,4 +1,4 @@
-https://github.com/antonkomarev/github-profile-views-counter
+
 ![](https://komarev.com/ghpvc/?username=SvetlanaZavacke&base=50&abbreviated=true)
 
 # 👋 Sveiki! Aš esu Svetlana – Duomenų Analitikė
