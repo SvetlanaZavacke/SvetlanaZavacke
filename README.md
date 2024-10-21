@@ -3,7 +3,7 @@
 
 # 👋 Sveiki! Aš esu Svetlana – Duomenų Analitikė
 
-Esu naujokė duomenų analizės srityje, bet aistringai domiuosi duomenų galia ir jų panaudojimu priimant verslo sprendimus. Šiuo metu gilinuosi į SQL ir Power BI, taip pat eksperimentuoju su Python įrankiais, tokiais kaip **pandas** ir **matplotlib**. Mano siekis – padėti komandoms priimti duomenimis pagrįstus sprendimus!
+Esu naujokė duomenų analizės srityje, bet aistringai domiuosi duomenų galia ir jų panaudojimu priimant verslo sprendimus. Šiuo metu įpatingai gilinuosi į Power BI, taip pat eksperimentuoju su SQL bei Python įrankiais, tokiais kaip **pandas** ir **matplotlib**. Mano siekis – padėti komandoms priimti duomenimis pagrįstus sprendimus!
 
 ---
 
